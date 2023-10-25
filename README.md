@@ -1,2 +1,3 @@
 # snake-game
-->play the game by just downloading the SnakeGame.exe and and opeing it.
+->Just the bunch of programs codes to make the game. The actual game is available in itch.io (the folllowing link)
+-> https://tawfeeqrifat.itch.io/snake-game
